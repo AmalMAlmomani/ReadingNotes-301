@@ -8,19 +8,18 @@
   - **HANDLE EVENTS:** jQuery includes methods that allow you to attach event listeners to selected elements without having to write any tailback code to support older browsers.
 
 
-### WHY USE JQUERY?
+## WHY USE JQUERY?
     - jQuery doesn’t do anything you cannot achieve with pure JavaScript. It is just a JavaScript file but estimates show it has been used on over a quarter of the sites on the web, because it makes coding simpler.
 
 
-### We can create attributes, or access and update their contents, using the following four methods:
+## We can create attributes, or access and update their contents, using the following four methods:
    - `.attr()`
    - `.removeAttr()`
    - `.addClass()`
    - `.removeClass()`
 
-
 - **The `.css()` method let us retrieve and set the values of CSS properties.**
-### WHERE TO PLACE YOUR SCRIPTS?
+## WHERE TO PLACE YOUR SCRIPTS?
    - in the head
    - in the page
    - before the closing `</body>` tage
