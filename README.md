@@ -26,7 +26,7 @@
 
    Vocabulary   |  Definition
  ---------------|--------------
-   ecosystem    | is a collection of software packages, libraries, and other resources that facilitate development as they integrate                     | with each other. 
+   ecosystem    | is a collection of software packages, libraries, and other resources that facilitate development as they integrate         ...         | with each other. 
    Node.js      | is a platform built on Chrome's JavaScript runtime for easily building fast and scalable network applications.
    - V8 Engine  | is Google's open source high-performance JavaScript and WebAssembly engine, written in C++. 
    - module     | is essentially a reusable piece of JavaScript which exports specific objects, making them available for other modules to require in their programs.
